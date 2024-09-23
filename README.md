@@ -1,2 +1,1 @@
-# Django-ecom-2
-copy
+# Django-ecom
